@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+
+.mainHeader {
+    display: flex;
+}
+
+#root, #root2 {
+  width: 50vw !important;  
+}
